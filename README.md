@@ -1,2 +1,2 @@
 # Option-Pricing
-This repository collects my works and peoject concerning option pricing.
+This repository collects my works and coursework concerning option pricing.
